@@ -1,5 +1,5 @@
 # yadtube-dlp
-A simple yt-dlp GUI built with yad
+A simple yt-dlp GUI built with yad to download Youtube videos and audio.
 
 # Demo
 ![til](./video.gif)
