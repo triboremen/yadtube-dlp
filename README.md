@@ -13,7 +13,7 @@ The script will store the downloaded files in the Downloads folder.
 # Adding to PATH
 In order to execute the script whenever you are in the machine, just:
 
-`cp script-folder/yadtube-dlp ~/.local/bin`
+`cp script-folder/yadtube-dlp ~/.local/bin` \n
 `reboot`
 
 # Additional info
